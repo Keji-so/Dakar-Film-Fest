@@ -185,7 +185,7 @@ button {
   font-size: 16px;
   line-height: 1;
   border: none;
-  /* border-bottom: 1px #2E2D2D solid; */
+  color: #2E2D2D;
   padding-left: 30px;
   padding-bottom: 8px;
   margin-right: 50px;
